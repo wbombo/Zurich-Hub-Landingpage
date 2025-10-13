@@ -1,0 +1,25 @@
+[
+  {
+    "_instructions": "Copy this file to public/data/events.json and add your hub's events",
+    "id": 1,
+    "title": "[Event Title]",
+    "date": "2024-12-31",
+    "time": "18:00",
+    "location": "[Event Location]",
+    "description": "[Detailed event description]",
+    "image": "/assets/images/events/[event-image].jpg",
+    "link": "[optional event registration/info URL]",
+    "category": "[Event Category - e.g., Workshop, Networking, Social Impact, etc.]"
+  },
+  {
+    "id": 2,
+    "title": "[Another Event Title]",
+    "date": "2024-11-15",
+    "time": "19:30",
+    "location": "[Location]",
+    "description": "[Event description]",
+    "image": "/assets/images/events/[event-image].jpg",
+    "link": "",
+    "category": "[Category]"
+  }
+]

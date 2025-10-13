@@ -1,0 +1,25 @@
+[
+  {
+    "_instructions": "Copy this file to public/data/members.json and add your hub's members",
+    "id": 1,
+    "name": "[Member Name]",
+    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
+    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "website": "[optional website URL]",
+    "photo": "/assets/images/members/[member_photo].jpg",
+    "role": "[Role in hub - e.g., Curator, Vice-Curator, Head of Projects, etc.]",
+    "board": true,
+    "description": "[Brief description of member's background, expertise, and contributions]"
+  },
+  {
+    "id": 2,
+    "name": "[Another Member Name]",
+    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
+    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "website": "",
+    "photo": "/assets/images/members/[member_photo].jpg",
+    "role": "[Member Role]",
+    "board": false,
+    "description": "[Member description]"
+  }
+]

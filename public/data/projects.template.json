@@ -1,0 +1,24 @@
+[
+  {
+    "_instructions": "Copy this file to public/data/projects.json and add your hub's projects",
+    "id": 1,
+    "title": "[Project Title]",
+    "description": "[Detailed description of the project, its goals, and impact]",
+    "image": "/assets/images/projects/[project-folder]/[main-image].jpg",
+    "link": "[optional project website URL]",
+    "category": "[Project Category - e.g., Social, Personal Development, Regional Development, Environment, etc.]",
+    "gallery": [
+      "/assets/images/projects/[project-folder]/[image1].jpg",
+      "/assets/images/projects/[project-folder]/[image2].jpg",
+      "/assets/images/projects/[project-folder]/[image3].jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "[Another Project Title]",
+    "description": "[Project description]",
+    "image": "/assets/images/projects/[project-folder]/[main-image].jpg",
+    "link": "",
+    "category": "[Category]"
+  }
+]
