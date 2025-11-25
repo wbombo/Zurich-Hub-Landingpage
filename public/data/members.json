@@ -1,0 +1,25 @@
+[
+  {
+    "_instructions": "Copy this file to public/data/members.json and add your hub's members",
+    "id": 1,
+    "name": "Weza Bombo",
+    "linkedin": "https://www.linkedin.com/in/wezabombojoao/",
+    "email": "w.bombo@hotmail.com",
+    "website": "google.com",
+    "photo": "/assets/images/members/weza_bombo.jpg",
+    "role": "Out-Going Curator",
+    "board": true,
+    "description": "Weza is a good guy"
+  },
+  {
+    "id": 2,
+    "name": "[Another Member Name]",
+    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
+    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "website": "",
+    "photo": "/assets/images/members/[member_photo].jpg",
+    "role": "[Member Role]",
+    "board": false,
+    "description": "[Member description]"
+  }
+]

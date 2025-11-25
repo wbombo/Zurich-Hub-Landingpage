@@ -1,0 +1,39 @@
+{
+  "_instructions": "Copy this file to public/config/hub-config.json and customize for your hub",
+  "hubName": "Global Shapers Zurich",
+  "hubShortName": "Zurich",
+  "region": "Zurich",
+  "country": "Switzerland",
+  "heroTitle": "Shaping the Future of Zurich",
+  "heroSubtitle": "Empowering young leaders to drive positive change through innovative projects and meaningful dialogue in [your description of location/region].",
+  "contact": {
+    "email": "zurich@globalshapers.org",
+    "address": {
+      "line1": "[Address Line 1]",
+      "line2": "[Address Line 2]",
+      "line3": "[City, Postal Code]",
+      "country": "Switzerland"
+    },
+    "donation": {
+      "bankingInfo": "[Your banking information for donations - IBAN, account number, etc.]"
+    }
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/globalshapers[yourcity]/",
+    "linkedin": "https://www.linkedin.com/company/global-shapers-[yourcity]/",
+    "facebook": "https://www.facebook.com/GlobalShapers[YourCity]/"
+  },
+  "recruitmentText": {
+    "title": "Are you a purpose-driven leader?",
+    "subtitle": "Apply to the {hubName} Hub! We seek diverse young leaders passionate about making a societal impact.",
+    "additionalInfo": "Supporting one of our projects as a volunteer or participating in one of our events before your application is considered a huge plus during the recruitment process. Please check out our Calendar or reach out to our Recruitment Officer to learn more about our current projects and events."
+  },
+  "aboutSection": {
+    "projectsDescription": "We drive positive change through innovative projects that address local challenges and contribute to global dialogue. Our initiatives span various sectors, always focused on creating measurable impact."
+  },
+  "branding": {
+    "logo": "/assets/images/logo.png",
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#10b981"
+  }
+}
