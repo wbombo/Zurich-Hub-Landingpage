@@ -3,22 +3,33 @@
     "_instructions": "Copy this file to public/data/projects.json and add your hub's projects",
     "id": 1,
     "title": "Züri schenkt",
-    "description": "[Detailed description of the project, its goals, and impact]",
+    "description": "During last year's 2023 Züri schenkt edition we were able to deliver ~1600 gifts to asylum seekers in Zurich, thereof almost half were children or teenagers. This was all possible through a well organized distribution day (and hub event) and a good media coverage. Additionally, we were able to create new partnerships with companies and other organizations in Zurich (e.g. the Refomierte Kirche) and expand our network and supporters.",
     "image": "/assets/images/projects/zurich_schenkt/zurich_schenkt_start.jpeg",
     "link": "https://www.zuerischenkt.ch/",
     "category": "Social"
   },
   {
     "id": 2,
-    "title": "[Another Project Title]",
-    "description": "[Project description]",
-    "image": "/assets/images/projects/[project-folder]/[main-image].jpg",
-    "link": "",
-    "category": "Category",
-    "gallery": [
-      "/assets/images/projects/[project-folder]/[image1].jpg",
-      "/assets/images/projects/[project-folder]/[image2].jpg",
-      "/assets/images/projects/[project-folder]/[image3].jpg"
-    ]
+    "title": "Health Club",
+    "description": "With the Health Club, our mission is to provide a secure and inclusive environment where individuals can discover the benefits of healthy habits, such as exercise, meditation, reading, and more. By empowering young people with these tools, we hope to foster a sense of well-being and control in daily lives.",
+    "image": "/assets/images/projects/zurich_schenkt/healthclub_big.jpg",
+    "link": "https://healthclubzrh.ch/",
+    "category": "Health"
+  }
+  {
+    "id": 3,
+    "title": "Pre-Davos",
+    "description": "With the Health Club, our mission is to provide a secure and inclusive environment where individuals can discover the benefits of healthy habits, such as exercise, meditation, reading, and more. By empowering young people with these tools, we hope to foster a sense of well-being and control in daily lives.",
+    "image": "/assets/images/projects/zurich_schenkt/healthclub_big.jpg",
+    "link": "https://healthclubzrh.ch/",
+    "category": "Health"
+  }
+  {
+    "id": 4,
+    "title": "Health Club",
+    "description": "With the Health Club, our mission is to provide a secure and inclusive environment where individuals can discover the benefits of healthy habits, such as exercise, meditation, reading, and more. By empowering young people with these tools, we hope to foster a sense of well-being and control in daily lives.",
+    "image": "/assets/images/projects/zurich_schenkt/healthclub_big.jpg",
+    "link": "https://healthclubzrh.ch/",
+    "category": "Health"
   }
 ]
