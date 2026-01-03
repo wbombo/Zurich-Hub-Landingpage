@@ -2,27 +2,27 @@
   {
     "_instructions": "Copy this file to public/data/impact_points.json and customize for your hub's impact areas",
     "title": "Fostering Collaboration",
-    "description": "Fostering collaboration in [Your City] by uniting Shapers from [Your Region] and surrounding areas. Together, we engage in joint initiatives that address local challenges, promote community development, and encourage cross-cultural exchanges, ensuring a cohesive and supportive environment for all members.",
+    "description": "Fostering collaboration in Zurich by uniting Shapers from Zurich Region and surrounding areas. Together, we engage in joint initiatives that address local challenges, promote community development, and encourage cross-cultural exchanges, ensuring a cohesive and supportive environment for all members.",
     "imagePath": "/assets/images/gs/team.jpg"
   },
   {
     "title": "Developing Leaders",
-    "description": "Dedicated to developing leaders within the [Your City] community, we provide workshops, mentorship programs, and leadership training sessions. These initiatives empower young individuals with the necessary skills and knowledge to spearhead change, advocate for social justice, and inspire others to contribute positively to society.",
+    "description": "Dedicated to developing leaders within the Zurich community, we provide workshops, mentorship programs, and leadership training sessions. These initiatives empower young individuals with the necessary skills and knowledge to spearhead change, advocate for social justice, and inspire others to contribute positively to society.",
     "imagePath": "/assets/images/gs/leadership.jpg"
   },
   {
     "title": "Creating Social Impact",
-    "description": "Committed to creating tangible social impact in [Your City], our projects focus on areas such as mental health awareness, sustainability, and social justice. By implementing targeted programs and collaborating with local organizations, we strive to make a meaningful difference in the lives of community members and promote a more equitable society.",
+    "description": "Committed to creating tangible social impact in Zurich, our projects focus on areas such as mental health awareness, sustainability, and social justice. By implementing targeted programs and collaborating with local organizations, we strive to make a meaningful difference in the lives of community members and promote a more equitable society.",
     "imagePath": "/assets/images/gs/diversity.jpg"
   },
   {
     "title": "Innovative Projects",
-    "description": "Driving innovative projects in [Your City], we encourage creativity and out-of-the-box thinking to solve pressing issues. From launching tech-driven solutions for environmental sustainability to organizing hackathons that foster entrepreneurship, our initiatives aim to harness the collective ingenuity of our Shapers for the greater good.",
+    "description": "Driving innovative projects in Zurich, we encourage creativity and out-of-the-box thinking to solve pressing issues. From launching tech-driven solutions for environmental sustainability to organizing hackathons that foster entrepreneurship, our initiatives aim to harness the collective ingenuity of our Shapers for the greater good.",
     "imagePath": "/assets/images/gs/projects.jpg"
   },
   {
     "title": "Global Connectivity",
-    "description": "Enhancing global connectivity, Global Shapers [Your City] bridges local efforts with international collaborations. By partnering with Shapers from around the world, we amplify our reach, share best practices, and contribute to global dialogues on key issues, ensuring that our local actions resonate on a broader scale.",
+    "description": "Enhancing global connectivity, Global Shapers Zurich bridges local efforts with international collaborations. By partnering with Shapers from around the world, we amplify our reach, share best practices, and contribute to global dialogues on key issues, ensuring that our local actions resonate on a broader scale.",
     "imagePath": "/assets/images/gs/global.jpg"
   }
 ]

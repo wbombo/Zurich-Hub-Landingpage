@@ -15,21 +15,35 @@
     "image": "/assets/images/projects/zurich_schenkt/healthclub_big.jpg",
     "link": "https://healthclubzrh.ch/",
     "category": "Health"
-  }
+  },
   {
     "id": 3,
-    "title": "Pre-Davos",
-    "description": "With the Health Club, our mission is to provide a secure and inclusive environment where individuals can discover the benefits of healthy habits, such as exercise, meditation, reading, and more. By empowering young people with these tools, we hope to foster a sense of well-being and control in daily lives.",
-    "image": "/assets/images/projects/zurich_schenkt/healthclub_big.jpg",
-    "link": "https://healthclubzrh.ch/",
-    "category": "Health"
-  }
+    "title": "Bridging the Divide",
+    "description": "“Bridging Divides” is a Shaper initiative that convenes a diverse group of citizens, (young) politicians, activists, entrepreneurs, and experts in a structured series of dialogues, debates, workshops, and mediation trainings. The aim is to counteract rising societal polarization by fostering empathy, building practical skills for constructive engagement, and promoting collaboration across ideological, professional, and cultural lines. Each annual or bi-annual edition of the project focuses on a specific theme of high polarization and experiments with different dialogue formats and bridge-building methodologies.",
+    "image": "/assets/images/projects/Bridging_the_Divide.png",
+    "category": "Social"
+  },
   {
     "id": 4,
-    "title": "Health Club",
-    "description": "With the Health Club, our mission is to provide a secure and inclusive environment where individuals can discover the benefits of healthy habits, such as exercise, meditation, reading, and more. By empowering young people with these tools, we hope to foster a sense of well-being and control in daily lives.",
-    "image": "/assets/images/projects/zurich_schenkt/healthclub_big.jpg",
-    "link": "https://healthclubzrh.ch/",
-    "category": "Health"
+    "title": "Pre-Davos",
+    "description": "Ahead of the WEF Annual Meeting in Davos 2026, the next generation of global leaders convenes in Zurich for a preparatory event hosted by the Global Shapers Zurich Hub. Each year, the Hub brings together 50 Delegates selected by the WEF from more than 45 countries and 50 Swiss Shapers for a weekend of connection, learning and intercultural exchange. Through workshops and sharing sessions, Pre-Davos offers an inspiring start to the delegation and allows Swiss Shapers to experience a prelude to Davos and be enriched by global perspectives.",
+    "image": "/assets/images/projects/Pre-Davos.heic",
+    "category": "Community"
+  },
+  {
+    "id": 5,
+    "title": "Hand 4 Hand",
+    "description": "At Hand4Hand, we support people in challenging situations—like former refugees, migrants, and those newly accepted—by offering the tools and guidance they need to move forward. Our mission is to create real connections and equality through shared experiences, helping everyone shape their future with dignity. By collaborating with organizations and the wider community, we also help them learn and find better ways to offer support. Our website provides useful information and opportunities for people to grow, while giving society and organizations insights on how to make their help more effective. Together, we can build a more inclusive and understanding world, one hand at a time.",
+    "image": "/assets/images/projects/Hand4hand.jpg",
+    "link": "https://www.hand4hand.ch/",
+    "category": "Social"
+  },
+  {
+    "id": 6,
+    "title": "Caring4YoungCarers",
+    "description": "We’re building something special for Young Carers by Young Carers.",
+    "image": "assets/images/projects/The-Bridge-Young-Carers-1024x765.webp",
+    "link": "https://www.caring4youngcarers.org/",
+    "category": "Education"
   }
 ]
