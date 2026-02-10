@@ -9,13 +9,13 @@
   "contact": {
     "email": "zurich@globalshapers.org",
     "address": {
-      "line1": " ",
-      "line2": "Alfred-Escherstrasse 76",
-      "line3": "8002 Zürich",
-      "country": "Switzerland"
+      "line1": "Zurich",
+      "line2": " ",
+      "line3": " ",
+      "country": " "
     },
     "donation": {
-      "bankingInfo": "CH75 0070 0114 8066 8497 8"
+      "bankingInfo": ""
     }
   },
   "social": {

@@ -6,18 +6,7 @@
     "linkedin": "https://www.linkedin.com/in/wezabombojoao/",
     "email": "w.bombo@hotmail.com",
     "photo": "/assets/images/members/weza.jpeg",
-    "role": "Curator",
-    "board": true,
-    "description": " "
-  },
-  {
-    "_instructions": "Copy this file to public/data/members.json and add your hub's members",
-    "id": 2,
-    "name": "Catherine McDonald",
-    "linkedin": "https://www.linkedin.com/in/catherine-mcdonald-42564ab9/",
-    "email": "catherine.mcdonald@unisg.ch",
-    "photo": "/assets/images/members/catherine.jpeg",
-    "role": "Outgoing Curator & Wellbeing Officer",
+    "role": "Outgoing Curator",
     "board": true,
     "description": " "
   },
@@ -26,10 +15,10 @@
     "id": 3,
     "name": "Sabine Fankhauser",
     "linkedin": "https://www.linkedin.com/in/sabine-fankhauser/",
-    "email": "sabine.fankhauser@globalshaperszurich.com",
+    "email": " ",
     "photo": "/assets/images/members/sabine.jpeg",
-    "role": "Partnerships",
-    "board": true,
+    "role": "Hub Member - Community Champion Switzerland & Austria",
+    "board": false,
     "description": " "
   },
   {
@@ -49,7 +38,7 @@
     "linkedin": "https://www.linkedin.com/in/antonia-straden/",
     "email": "antonia.straden@globalshaperszurich.com",
     "photo": "/assets/images/members/antonia.jpeg",
-    "role": "Vice Curator",
+    "role": "Curator",
     "board": true
   },
   {
@@ -59,187 +48,207 @@
     "linkedin": "https://www.linkedin.com/in/valeria-t-057585143/",
     "email": "valeria.torre@globalshaperszurich.com",
     "photo": "/assets/images/members/valeria.jpeg",
-    "role": "Members Office",
-    "board": true
-  },
-    {
-    "id": 7,
-    "name": "Nicole Keller",
-    "linkedin": "https://www.linkedin.com/in/nicole-keller-020378a7/",
-    "email": "nicole.keller@globalshaperszurich.com",
-    "photo": "/assets/images/members/nicole.jpeg",
-    "role": "Finance",
+    "role": "Head of Hub Members",
     "board": true
   },
   {
     "id": 8,
     "name": "Abdulrasheed Isah",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/abdulrasheed-isah-b2064396/",
+    "email": " ",
     "photo": "/assets/images/members/AbdulrasheedIsa.JPEG",
-    "role": "Member Züri Schenkt",
-    "board": false
-  },
-    {
-    "id": 9,
-    "name": "Abishek S. Narayan",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
-    "photo": "/assets/images/members/[member_photo].jpg",
-    "role": "[Member Role]",
+    "role": "Hub Member",
     "board": false
   },
     {
     "id": 10,
     "name": "Alejandra Quijano",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/alejandra-quijano-396701202/",
+    "email": " ",
     "photo": "/assets/images/members/Alejandra quijano.jpeg",
-    "role": "Member Züri Schenkt",
+    "role": "Hub Member",
     "board": false
   },
     {
     "id": 11,
     "name": "Cristian Santana",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/cristian-santana-ll/",
+    "email": " ",
     "photo": "/assets/images/members/Chris LlaSan.jpeg",
-    "role": "Member Pre-Davos",
+    "role": "Hub Member",
     "board": false
   },
     {
     "id": 12,
     "name": "Ethel Hui Yan Tan",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/etheltanhy/",
+    "email": "etheltanhy@gmail.com",
     "photo": "/assets/images/members/Ethel Hui Yan Tan.jpeg",
-    "role": "Member Caring4YoungCarers",
-    "board": false
-  },
-    {
-    "id": 13,
-    "name": "Hinata Saiki",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
-    "photo": "/assets/images/members/[member_photo].jpg",
-    "role": "Member Health Club",
-    "board": false
+    "role": "Head of Community",
+    "board": true
   },
     {
     "id": 14,
     "name": "Jessica Bubenheim",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/jessica-bubenheim-2b198a105/",
+    "email": " ",
     "photo": "/assets/images/members/Jessica Bubenheim.jpeg",
-    "role": "Member Health Club",
+    "role": "Hub Member",
     "board": false
   },
     {
     "id": 15,
     "name": "Line Cottier",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/line-cottier-192758196/",
+    "email": "linecottier@hotmail.com",
     "photo": "/assets/images/members/Line Cottier.jpeg",
-    "role": "Member Bridging the Divide",
-    "board": false
+    "role": "Vice Curator",
+    "board": true
   },
     {
     "id": 16,
     "name": "Lukas Zuellig-Knecht",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
-    "photo": "/assets/images/members/[member_photo].jpg",
-    "role": "[Member Role]",
+    "linkedin": "https://www.linkedin.com/in/lukas-knecht/",
+    "email": " ",
+    "photo": "assets/images/members/Lukas.jpg",
+    "role": "Hub Member",
     "board": false
   },
       {
     "id": 17,
     "name": "Michael Lörtscher",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
-    "photo": "/assets/images/members/[member_photo].jpg",
-    "role": "Member Empower Careers",
-    "board": false
+    "linkedin": "https://www.linkedin.com/in/michael-loertscher/",
+    "email": "michael@lortscher.ch",
+    "photo": "assets/images/members/Michael Lörtscher.jpeg",
+    "role": "Head of Finance",
+    "board": true
   },
         {
     "id": 18,
     "name": "Miriam López Ferreiro",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/mlopezferreiro/",
+    "email": " ",
     "photo": "/assets/images/members/Miriam López Ferreiro.jpeg",
-    "role": "Member Pre-Davos",
+    "role": "Hub Member",
     "board": false
   },
         {
     "id": 19,
     "name": "Mirujaa Santhirasegaram",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/mirujaa-santhirasegaram-2254292a3/",
+    "email": " ",
     "photo": "/assets/images/members/Miru Santhi.jpg",
-    "role": "Member Hand4Hand & Zurich Schenkt",
+    "role": "Hub Member",
     "board": false
   },
   {
     "id": 20,
     "name": "Natasha Hunziker",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/natashahunziker/",
+    "email": "natasha.hunziker@gmail.com",
     "photo": "/assets/images/members/Natasha Hunziker.JPG",
-    "role": "Caring4YoungCarers",
-    "board": false
+    "role": "Head of Communication",
+    "board": true
   },
   {
     "id": 21,
     "name": "Oliver Reichert",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": " ",
+    "email": " ",
     "photo": "/assets/images/members/Oliver Reichert.jpeg",
-    "role": "Member Hand4Hand",
+    "role": "Hub Member",
     "board": false
   },
   {
     "id": 22,
     "name": "Peter Bjerkén",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
-    "photo": "/assets/images/members/[member_photo].jpg",
-    "role": "Member Health Club",
+    "linkedin": "https://www.linkedin.com/in/peterbjerk%C3%A9n/",
+    "email": " ",
+    "photo": "assets/images/members/Peter.jpg",
+    "role": "Hub Member",
     "board": false
   },
   {
     "id": 23,
     "name": "Pietro Chioda",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/pietro-chioda-a0b8a51a2/",
+    "email": " ",
     "photo": "/assets/images/members/Pietro Chioda.jpg",
-    "role": "Member Pre-Davos",
+    "role": "Hub Member",
     "board": false
   },
   {
     "id": 24,
     "name": "Sahel Lahoo",
     "linkedin": "https://www.linkedin.com/in/sahel-lahoo/",
-    "email": "info@sahel.ch",
+    "email": " ",
     "photo": "/assets/images/members/Sahel Lahoo.png",
-    "role": "Member Pre-Davos",
+    "role": "Hub Member",
     "board": false
   },
   {
     "id": 25,
     "name": "Til R. Fink",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
-    "photo": "/assets/images/members/[member_photo].jpg",
-    "role": "[Member Role]",
+    "linkedin": "https://www.linkedin.com/in/til-fink/",
+    "email": " ",
+    "photo": "assets/images/members/Til Fink.jpg",
+    "role": "Hub Member",
     "board": false
   },
   {
     "id": 26,
     "name": "Zoya Miari",
-    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
-    "email": "[firstname.lastname]@globalshapers[yourcity].com",
+    "linkedin": "https://www.linkedin.com/in/zoya-miari-7cl927186/",
+    "email": " ",
     "photo": "/assets/images/members/Zoya Miari.jpeg",
-    "role": "Member Hand4Hand",
+    "role": "Hub Member",
+    "board": false
+  },
+  {
+    "id": 26,
+    "name": "Benedikt Schmid",
+    "linkedin": "https://www.linkedin.com/in/benedikt-s-b111b3122/",
+    "email": " ",
+    "photo": "assets/images/members/Benedikt Schmid.jpg",
+    "role": "Hub Member",
+    "board": false
+  },
+  {
+    "id": 26,
+    "name": "Dalia Ghosn",
+    "linkedin": "https://www.linkedin.com/in/daliaghosn/",
+    "email": " ",
+    "photo": "assets/images/members/Dalia Ghosn.jpg",
+    "role": "Hub Member",
+    "board": false
+  },
+  {
+    "id": 26,
+    "name": "Sofia Jordan",
+    "linkedin": "https://www.linkedin.com/in/sofiajordan/",
+    "email": " ",
+    "photo": "assets/images/members/Sofia Jordan.jpg",
+    "role": "Hub Member",
+    "board": false
+  },
+  {
+    "id": 26,
+    "name": "Sterre van Egmond",
+    "linkedin": "https://www.linkedin.com/in/sterrevanegmond/",
+    "email": " ",
+    "photo": "assets/images/members/Sterre van Egmond.jpg",
+    "role": "Hub Member",
+    "board": false
+  },
+  {
+    "id": 26,
+    "name": "Hinata Saiki",
+    "linkedin": "https://www.linkedin.com/in/hinata-saiki-2581311b2/",
+    "email": " ",
+    "photo": "assets/images/members/Hinata Saiki.jpg",
+    "role": "Hub Member",
     "board": false
   }
+  
+  
 ]

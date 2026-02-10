@@ -3,7 +3,7 @@ import { FaChalkboardTeacher, FaHandsHelping, FaGlobeAmericas } from 'react-icon
 import { useHubConfig } from '../hooks/useHubConfig';
 
 const RecruitmentSection: React.FC = () => {
-    const recruitmentLink = "https://weforum.eu.qualtrics.com/jfe/form/SV_6F4bAg3fL2x1eXb";
+    const recruitmentLink = "https://docs.google.com/forms/d/e/1FAIpQLSdNHzERd5QbD1ZRp5m-xVoE-jAor3aqficuvXvo8UHxetj69A/viewform";
     const { config: hubConfig } = useHubConfig();
 
     // Calculate the date 27 years ago from today
