@@ -27,9 +27,9 @@ const RecruitmentSection: React.FC = () => {
     const benefits = [
         
         {
-            title: "Community & Networking",
-            description: "Connect with like-minded individuals in Zurich and globally.",
-            icon: <FaHandsHelping className="text-primary w-6 h-6"/>,
+            title: "Impact",
+            description: "Engage in meaningful initiatives that benefit your community.",
+            icon: <FaGlobeAmericas className="text-primary w-6 h-6"/>,
         },
         {
             title: "Leadership",
@@ -37,9 +37,9 @@ const RecruitmentSection: React.FC = () => {
             icon: <FaChalkboardTeacher className="text-primary w-6 h-6"/>,
         },
         {
-            title: "Impact",
-            description: "Engage in meaningful initiatives that benefit your community.",
-            icon: <FaGlobeAmericas className="text-primary w-6 h-6"/>,
+            title: "Community & Networking",
+            description: "Connect with like-minded individuals in Zurich and globally.",
+            icon: <FaHandsHelping className="text-primary w-6 h-6"/>,
         },
     ];
 
