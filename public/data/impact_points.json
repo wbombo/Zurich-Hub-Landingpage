@@ -1,27 +1,16 @@
 [
   {
-    "_instructions": "Copy this file to public/data/impact_points.json and customize for your hub's impact areas",
-    "title": "Fostering Collaboration",
-    "description": "Fostering collaboration in Zurich by uniting Shapers from the Zurich Region and surrounding areas. Together, we engage in joint initiatives that address local challenges, promote community development, and encourage cross-cultural exchanges, ensuring a cohesive and supportive environment for all members.",
-    "imagePath": "/assets/images/gs/team.jpg"
-  },
-  {
-    "title": "Developing Leaders",
-    "description": "Dedicated to developing leaders within the Zurich community, we provide workshops, mentorship programs, and leadership training sessions. These initiatives empower young individuals with the necessary skills and knowledge to spearhead change, advocate for social justice, and inspire others to contribute positively to society. We are, as the Global Shapers Community, representing youth voices at Forums like the Annual Meeting in Davos and giving young leaders a platform to represent the younger generation.",
-    "imagePath": "/assets/images/gs/leadership.jpg"
-  },
-  {
-    "title": "Creating Social Impact",
-    "description": "Committed to creating tangible social impact in Zurich, our projects focus on areas such as mental health awareness, sustainability, and social justice. By implementing targeted programs and collaborating with local organizations, we strive to make a meaningful difference in the lives of community members and promote a more inclusive and equitable society.",
+    "title": "Impact: Through projects and engagement",
+    "description": "Active involvement in projects and the development of new ideas and innovative solutions allows the Hub to have a positive impact, both, individually and collectively to address challenges in our communities. By implementing targeted programs and collaborating with local organizations, we strive to make a meaningful difference in the lives of community members and promote a more inclusive and equitable society.",
     "imagePath": "/assets/images/gs/diversity.jpg"
   },
   {
-    "title": "Innovative Projects",
-    "description": "Driving innovative projects in Zurich, we encourage creativity and out-of-the-box thinking to solve pressing issues. From launching tech-driven solutions for environmental sustainability to organizing hackathons that foster entrepreneurship, our initiatives aim to harness the collective ingenuity of our Shapers for the greater good.",
-    "imagePath": "/assets/images/gs/projects.jpg"
+    "title": "Personal development: Through growth and trust",
+    "description": "Through projects and Hub roles, we enable fellow Shapers to develop themselves through learning opportunities, while leveraging their strengths and passions. In addition, through regular interactions, the Hub provides a space for friendship, reflection and support, spurring inspiration and motivation to act for positive change.",
+    "imagePath": "/assets/images/gs/leadership.jpg"
   },
   {
-    "title": "Global Connectivity",
+    "title": "Community spirit: As a platform for collaboration & change",
     "description": "Enhancing global connectivity, Global Shapers Zurich bridges local efforts with international collaborations. By partnering with Shapers from around the world, we amplify our reach, share best practices, and contribute to global dialogues on key issues, ensuring that our local actions resonate on a broader scale.",
     "imagePath": "/assets/images/gs/global.jpg"
   }

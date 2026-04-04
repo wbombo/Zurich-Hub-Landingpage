@@ -242,7 +242,7 @@ const ProjectsSection: React.FC = () => {
                                 <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-neutral-lighter">
                                     <div>
                                         <h4 className="text-lg font-semibold text-text-primary">Interested in this project?</h4>
-                                        <p className="text-text-secondary">Join us or support our initiative</p>
+                                        <p className="text-text-secondary">Join us or support our initiative - reach out by contacting us under: info@globalshaperszurich.com </p>
                                     </div>
                                     
                                     <div className="flex gap-4">
