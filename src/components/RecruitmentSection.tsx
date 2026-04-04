@@ -28,7 +28,7 @@ const RecruitmentSection: React.FC = () => {
         
         {
             title: "Community & Networking",
-            description: "Connect with like-minded individuals in Zurich and globally. Engage in initiatives that benefit your community.",
+            description: "Connect with like-minded individuals in Zurich and globally.",
             icon: <FaHandsHelping className="text-primary w-6 h-6"/>,
         },
         {
