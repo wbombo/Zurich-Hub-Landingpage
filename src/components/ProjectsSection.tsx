@@ -43,7 +43,7 @@ const ProjectsSection: React.FC = () => {
                 <div className="mb-12 text-center">
                     <div className="inline-block">
                         <span className="text-sm font-semibold tracking-wider text-primary uppercase">Our Work</span>
-                        <h2 className="mt-2 text-4xl md:text-5xl font-bold text-text-primary">Impact Projects</h2>
+                        <h2 className="mt-2 text-4xl md:text-5xl font-bold text-text-primary">Impact & Projects</h2>
                         <div className="mt-3 h-1 w-24 bg-primary mx-auto rounded-full"></div>
                     </div>
                     <p className="text-lg md:text-xl mt-8 text-text-secondary max-w-3xl mx-auto font-normal leading-relaxed">

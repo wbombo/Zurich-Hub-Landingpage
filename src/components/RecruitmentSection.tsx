@@ -49,7 +49,8 @@ const RecruitmentSection: React.FC = () => {
         "You possess unique qualities that set you distinctly apart from the mainstream.",
         "You have an entrepreneurial spirit, having already initiated and delivered a major project or founded a company or organization, exceptionally contributing to serving society at large.",
         "You are ready to deeply engage in the Global Shaper Community, reinforcing its mission and objectives and supporting fellow Shapers in their individual and professional development.",
-        hubConfig?.recruitmentText.additionalInfo || "Supporting one of our projects as a volunteer or participating in one of our events before your application is considered a huge plus during the recruitment process. Please check out our Calendar or reach out to our Recruitment Officer to learn more about our current projects and events.",
+        hubConfig?.recruitmentText.additionalInfo || "Supporting one of our projects as a volunteer or participating in one of our events before your application is considered a huge plus during the recruitment process. Please check out our social media channels or reach out to our Members Officer to learn more about our current projects and events.",
+        "We recruit in two annual cycles. Applications submitted by 31 January are considered in the first cycle, and those submitted by 31 August are considered in the second cycle."
     ];
 
     return (

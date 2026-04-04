@@ -6,7 +6,7 @@
     "description": "During our Züri schenkt events we are able to deliver ~1500 gifts to asylum seekers in Zurich, thereof almost half are usualy children or teenagers. This is all possible through a well organized distribution day (and hub event) and a good media coverage. Additionally, we are created new partnerships with companies and other organizations in Zurich (e.g. the Refomierte Kirche) and expand our network and supporters.",
     "image": "/assets/images/projects/zurich_schenkt/zurich_schenkt_start.jpeg",
     "link": "https://www.zuerischenkt.ch/",
-    "category": "Social"
+    "category": "Delivering Basic Needs"
   },
   {
     "id": 2,
@@ -14,21 +14,21 @@
     "description": "Health Club Zurich is a community-building project focused on fostering authentic connection and life balance for young professionals in Zurich through group wellness activities. For two years, the project has consistently hosted sessions like cold exposure, breathwork, and yoga classes, averaging 5 to 10 participants per event. The team actively works on community growth through social media engagement and improving event quality via venue selection and partnerships.",
     "image": "/assets/images/projects/zurich_schenkt/healthclub_big.jpg",
     "link": "https://healthclubzrh.ch/",
-    "category": "Health"
+    "category": "Improving Health and Wellbeing"
   },
   {
     "id": 3,
-    "title": "Bridging the Divide",
+    "title": "Bridging Divides",
     "description": "“Bridging Divides” is a Shaper initiative that convenes a diverse group of citizens, (young) politicians, activists, entrepreneurs, and experts in a structured series of dialogues, debates, workshops, and mediation trainings. The aim is to counteract rising societal polarization by fostering empathy, building practical skills for constructive engagement, and promoting collaboration across ideological, professional, and cultural lines. Each annual or bi-annual edition of the project focuses on a specific theme of high polarization and experiments with different dialogue formats and bridge-building methodologies.",
     "image": "/assets/images/projects/Bridging_the_Divide.png",
-    "category": "Social"
+    "category": "Strengthening Civic Engagement"
   },
   {
     "id": 4,
     "title": "Pre-Davos",
     "description": "Ahead of the WEF Annual Meeting in Davos, the next generation of global leaders convenes in Zurich for a preparatory event hosted by the Global Shapers Zurich Hub. Each year, the Hub brings together 40-50 Delegates selected by the WEF from more than 45 countries and 50 Swiss Shapers for a weekend of connection, learning and intercultural exchange. Through workshops and sharing sessions, Pre-Davos offers an inspiring start to the delegation and allows Swiss Shapers to experience a prelude to Davos and be enriched by global perspectives.",
     "image": "/assets/images/projects/Pre-Davos.heic",
-    "category": "Community"
+    "category": "Reskilling for the Future"
   },
   {
     "id": 5,
@@ -36,7 +36,7 @@
     "description": "At Hand4Hand, we support people in challenging situations—like former refugees, migrants, and those newly accepted—by offering the tools and guidance they need to move forward. Our mission is to create real connections and equality through shared experiences, helping everyone shape their future with dignity. By collaborating with organizations and the wider community, we also help them learn and find better ways to offer support. Our website provides useful information and opportunities for people to grow, while giving society and organizations insights on how to make their help more effective. Together, we can build a more inclusive and understanding world, one hand at a time.",
     "image": "/assets/images/projects/Hand4hand.jpg",
     "link": "https://www.hand4hand.ch/",
-    "category": "Social"
+    "category": "Creating Inclusive Communities"
   },
   {
     "id": 6,
@@ -44,13 +44,13 @@
     "description": "Raising awareness, igniting courage and offering support one workshop at a time for the 180’000+ young carers in Switzerland. Young Carers are youth aged 5-25, that take care of a family member with a chronic illness, disability or addiction. Our mission is to create lasting awareness and understanding for Young Carers through interactive and personal workshops in schools, social, and healthcare institutions. Caring4YoungCarers is by Young Carers for Young Carers.",
     "image": "assets/images/projects/The-Bridge-Young-Carers-1024x765.webp",
     "link": "https://www.caring4youngcarers.org/",
-    "category": "Education"
+    "category": "Reskilling for the Future"
   },
  {
     "id": 7,
     "title": "Empower Careers",
     "description": "Empower Careers is a youth-led initiative designed to strengthen the connection between student minorities in Switzerland and local corporations. The project creates exposure to career opportunities through curated recruiting events, dialogue formats, and networking spaces. In its inaugural edition in 2025, the team partnered with the Africa Association at HSG and three corporate/institutional partners to host a diversity-focused career event. The programme combined corporate presentations, debate sessions, and an apero networking session to foster meaningful engagement between students and employers.",
     "image": "assets/images/projects/Empower Careers.png",
-    "category": "Education"
+    "category": "Creating Inclusive Communities"
   }
 ]

@@ -2,17 +2,17 @@
   {
     "_instructions": "Copy this file to public/data/impact_points.json and customize for your hub's impact areas",
     "title": "Fostering Collaboration",
-    "description": "Fostering collaboration in Zurich by uniting Shapers from Zurich Region and surrounding areas. Together, we engage in joint initiatives that address local challenges, promote community development, and encourage cross-cultural exchanges, ensuring a cohesive and supportive environment for all members.",
+    "description": "Fostering collaboration in Zurich by uniting Shapers from the Zurich Region and surrounding areas. Together, we engage in joint initiatives that address local challenges, promote community development, and encourage cross-cultural exchanges, ensuring a cohesive and supportive environment for all members.",
     "imagePath": "/assets/images/gs/team.jpg"
   },
   {
     "title": "Developing Leaders",
-    "description": "Dedicated to developing leaders within the Zurich community, we provide workshops, mentorship programs, and leadership training sessions. These initiatives empower young individuals with the necessary skills and knowledge to spearhead change, advocate for social justice, and inspire others to contribute positively to society.",
+    "description": "Dedicated to developing leaders within the Zurich community, we provide workshops, mentorship programs, and leadership training sessions. These initiatives empower young individuals with the necessary skills and knowledge to spearhead change, advocate for social justice, and inspire others to contribute positively to society. We are, as the Global Shapers Community, representing youth voices at Forums like the Annual Meeting in Davos and giving young leaders a platform to represent the younger generation.",
     "imagePath": "/assets/images/gs/leadership.jpg"
   },
   {
     "title": "Creating Social Impact",
-    "description": "Committed to creating tangible social impact in Zurich, our projects focus on areas such as mental health awareness, sustainability, and social justice. By implementing targeted programs and collaborating with local organizations, we strive to make a meaningful difference in the lives of community members and promote a more equitable society.",
+    "description": "Committed to creating tangible social impact in Zurich, our projects focus on areas such as mental health awareness, sustainability, and social justice. By implementing targeted programs and collaborating with local organizations, we strive to make a meaningful difference in the lives of community members and promote a more inclusive and equitable society.",
     "imagePath": "/assets/images/gs/diversity.jpg"
   },
   {
