@@ -25,15 +25,16 @@ const RecruitmentSection: React.FC = () => {
     const maxAgeDateString = formatDate(maxAgeDate);
 
     const benefits = [
+        
+        {
+            title: "Community & Networking",
+            description: "Connect with like-minded individuals in Zurich and globally. Engage in initiatives that benefit your community.",
+            icon: <FaHandsHelping className="text-primary w-6 h-6"/>,
+        },
         {
             title: "Leadership",
             description: "Develop skills to lead impactful projects.",
             icon: <FaChalkboardTeacher className="text-primary w-6 h-6"/>,
-        },
-        {
-            title: "Community",
-            description: "Engage in initiatives that benefit your community.",
-            icon: <FaHandsHelping className="text-primary w-6 h-6"/>,
         },
         {
             title: "Networking",
