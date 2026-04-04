@@ -33,12 +33,12 @@ const RecruitmentSection: React.FC = () => {
         },
         {
             title: "Leadership",
-            description: "Develop skills to lead impactful projects.",
+            description: "Develop skills to lead impactful projects and initiatives.",
             icon: <FaChalkboardTeacher className="text-primary w-6 h-6"/>,
         },
         {
-            title: "Networking",
-            description: "Connect with like-minded individuals globally.",
+            title: "Impact",
+            description: "Engage in meaningful initiatives that benefit your community.",
             icon: <FaGlobeAmericas className="text-primary w-6 h-6"/>,
         },
     ];
