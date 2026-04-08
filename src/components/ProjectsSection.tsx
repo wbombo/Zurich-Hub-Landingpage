@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Project } from '../interfaces/Project';
-import { FaExternalLinkAlt, FaImages, FaTimes } from 'react-icons/fa';
+import { FaExternalLinkAlt, FaImages, FaTimes, FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 import { fetchProjects } from '../services/apiService';
 import { useHubConfig } from '../hooks/useHubConfig';
 
@@ -11,6 +11,7 @@ const ProjectsSection: React.FC = () => {
     const [activeCategory, setActiveCategory] = useState<string | 'all'>('all');
     const [categories, setCategories] = useState<string[]>([]);
     const [selectedProject, setSelectedProject] = useState<Project | null>(null);
+    const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
     const { config: hubConfig } = useHubConfig();
 
     useEffect(() => {
@@ -226,11 +227,15 @@ const ProjectsSection: React.FC = () => {
                                         <h4 className="text-xl font-bold mb-4 text-text-primary">Project Gallery</h4>
                                         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                                             {selectedProject.gallery.map((imagePath, index) => (
-                                                <div key={index} className="aspect-video rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 hover:opacity-95">
-                                                    <img 
-                                                        src={imagePath} 
-                                                        alt={`${selectedProject.title} - Gallery image ${index + 1}`} 
-                                                        className="w-full h-full object-cover" 
+                                                <div
+                                                    key={index}
+                                                    className="aspect-video rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 hover:opacity-95 cursor-pointer"
+                                                    onClick={() => setLightboxIndex(index)}
+                                                >
+                                                    <img
+                                                        src={imagePath}
+                                                        alt={`${selectedProject.title} - Gallery image ${index + 1}`}
+                                                        className="w-full h-full object-cover"
                                                     />
                                                 </div>
                                             ))}
@@ -266,6 +271,64 @@ const ProjectsSection: React.FC = () => {
                                 </div>
                             </div>
                         </div>
+                    </div>
+                )}
+
+                {/* Lightbox Overlay for Gallery Images */}
+                {lightboxIndex !== null && selectedProject?.gallery && (
+                    <div
+                        className="fixed inset-0 z-[60] bg-neutral-black/90 flex items-center justify-center p-4 md:p-8"
+                        onClick={() => setLightboxIndex(null)}
+                    >
+                        <button
+                            onClick={() => setLightboxIndex(null)}
+                            className="absolute top-4 right-4 bg-white/90 hover:bg-white p-2 rounded-full shadow-md transition-all duration-300 hover:scale-110 z-10"
+                            aria-label="Close lightbox"
+                        >
+                            <FaTimes className="text-primary" />
+                        </button>
+
+                        {/* Previous button */}
+                        {selectedProject.gallery.length > 1 && (
+                            <button
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    setLightboxIndex((lightboxIndex - 1 + selectedProject.gallery!.length) % selectedProject.gallery!.length);
+                                }}
+                                className="absolute left-4 bg-white/90 hover:bg-white p-3 rounded-full shadow-md transition-all duration-300 hover:scale-110 z-10"
+                                aria-label="Previous image"
+                            >
+                                <FaChevronLeft className="text-primary" />
+                            </button>
+                        )}
+
+                        <img
+                            src={selectedProject.gallery[lightboxIndex]}
+                            alt={`${selectedProject.title} - Gallery image ${lightboxIndex + 1}`}
+                            className="max-w-full max-h-[90vh] object-contain rounded-lg shadow-2xl"
+                            onClick={(e) => e.stopPropagation()}
+                        />
+
+                        {/* Next button */}
+                        {selectedProject.gallery.length > 1 && (
+                            <button
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    setLightboxIndex((lightboxIndex + 1) % selectedProject.gallery!.length);
+                                }}
+                                className="absolute right-4 bg-white/90 hover:bg-white p-3 rounded-full shadow-md transition-all duration-300 hover:scale-110 z-10"
+                                aria-label="Next image"
+                            >
+                                <FaChevronRight className="text-primary" />
+                            </button>
+                        )}
+
+                        {/* Image counter */}
+                        {selectedProject.gallery.length > 1 && (
+                            <div className="absolute bottom-6 text-white/80 text-sm font-medium">
+                                {lightboxIndex + 1} / {selectedProject.gallery.length}
+                            </div>
+                        )}
                     </div>
                 )}
             </div>

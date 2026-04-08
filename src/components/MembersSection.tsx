@@ -22,7 +22,7 @@ const MembersSection: React.FC = () => {
 
                         // Exact matches only (case-insensitive) for top 3 roles
                         if (roleLower === 'curator') return 1;
-                        if (roleLower === 'vice-curator') return 2;
+                        if (roleLower === 'vice-curator' || roleLower === 'vice curator') return 2;
                         if (roleLower === 'impact officer') return 3;
 
                         // All other board members (regardless of role)
