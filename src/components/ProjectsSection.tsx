@@ -251,7 +251,7 @@ const ProjectsSection: React.FC = () => {
                                                 href={selectedProject.link} 
                                                 target="_blank" 
                                                 rel="noopener noreferrer"
-                                                className="px-6 py-3 bg-primary text-white font-medium rounded-lg hover:bg-primary-dark transition-all duration-300 shadow-md"
+                                                className="px-6 py-3 bg-primary text-white font-medium rounded-lg hover:bg-primary-dark transition-all duration-300 shadow-md whitespace-nowrap"
                                             >
                                                 Visit Project
                                             </a>

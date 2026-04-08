@@ -6,7 +6,10 @@
     "description": "During our Züri schenkt events we are able to deliver ~1500 gifts to asylum seekers in Zurich, thereof almost half are usualy children or teenagers. This is all possible through a well organized distribution day (and hub event) and a good media coverage. Additionally, we are created new partnerships with companies and other organizations in Zurich (e.g. the Refomierte Kirche) and expand our network and supporters.",
     "image": "/assets/images/projects/zurich_schenkt/zurich_schenkt_start.jpeg",
     "link": "https://www.zuerischenkt.ch/",
-    "category": "Delivering Basic Needs"
+    "category": "Delivering Basic Needs",
+    "gallery": [
+      "/assets/images/projects/zurich_schenkt/healthclub_big.jpg"
+    ]
   },
   {
     "id": 2,

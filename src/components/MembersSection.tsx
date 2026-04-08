@@ -15,19 +15,22 @@ const MembersSection: React.FC = () => {
                 const sortedMembers = data.sort((a, b) => {
                     // Define role priority order
                     const getRolePriority = (member: Member): number => {
+                        // Alumni always go last
+                        if (member.alumni) return 200;
+
                         const roleLower = member.role?.toLowerCase().trim() || '';
-                        
+
                         // Exact matches only (case-insensitive) for top 3 roles
                         if (roleLower === 'curator') return 1;
                         if (roleLower === 'vice-curator') return 2;
                         if (roleLower === 'impact officer') return 3;
-                        
+
                         // All other board members (regardless of role)
                         if (member.board) return 10;
-                        
+
                         // Non-board members with roles
                         if (member.role) return 30;
-                        
+
                         // Regular members without roles
                         return 100;
                     };
@@ -60,9 +63,12 @@ const MembersSection: React.FC = () => {
         return <div className="text-center py-10 text-accent-red">{error}</div>;
     }
 
-    // Find the index where board members end
-    const boardMembersEndIndex = members.findIndex(member => !member.board);
-    const hasBothTypes = boardMembersEndIndex > 0 && boardMembersEndIndex < members.length;
+    // Find the index where board members end and alumni start
+    const boardMembersEndIndex = members.findIndex(member => !member.board && !member.alumni);
+    const alumniStartIndex = members.findIndex(member => member.alumni);
+    const hasBoard = boardMembersEndIndex > 0;
+    const hasRegularMembers = boardMembersEndIndex >= 0 && (alumniStartIndex === -1 || boardMembersEndIndex < alumniStartIndex);
+    const hasAlumni = alumniStartIndex >= 0;
 
     return (
         <section className="bg-neutral-light py-16" id="members">
@@ -70,7 +76,7 @@ const MembersSection: React.FC = () => {
                 <h2 className="text-3xl font-bold mb-8 text-center text-primary">The Hub</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     {/* Add Board header if there are board members */}
-                    {boardMembersEndIndex > 0 && (
+                    {hasBoard && (
                         <div className="col-span-full mb-4">
                             <p className="text-center text-primary font-semibold text-lg">Board</p>
                             <hr className="border-t-2 border-primary-light opacity-30 mt-2" />
@@ -79,10 +85,17 @@ const MembersSection: React.FC = () => {
                     {members.map((member, index) => (
                         <>
                             {/* Add divider when transitioning from board to non-board members */}
-                            {hasBothTypes && index === boardMembersEndIndex && (
+                            {hasRegularMembers && index === boardMembersEndIndex && (
                                 <div className="col-span-full my-8">
                                     <hr className="border-t-2 border-primary-light opacity-30" />
                                     <p className="text-center text-primary mt-4 font-semibold text-lg">Members</p>
+                                </div>
+                            )}
+                            {/* Add divider when transitioning to alumni */}
+                            {hasAlumni && index === alumniStartIndex && (
+                                <div className="col-span-full my-8">
+                                    <hr className="border-t-2 border-primary-light opacity-30" />
+                                    <p className="text-center text-primary mt-4 font-semibold text-lg">Alumni</p>
                                 </div>
                             )}
                             <div

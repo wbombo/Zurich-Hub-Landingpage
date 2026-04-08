@@ -21,5 +21,17 @@
     "role": "[Member Role]",
     "board": false,
     "description": "[Member description]"
+  },
+  {
+    "id": 3,
+    "name": "[Alumni Member Name]",
+    "linkedin": "https://www.linkedin.com/in/[linkedin-username]/",
+    "email": "",
+    "website": "",
+    "photo": "/assets/images/members/[member_photo].jpg",
+    "role": "[Former Role - e.g., Former Curator]",
+    "board": false,
+    "alumni": true,
+    "description": "[Alumni description]"
   }
 ]
