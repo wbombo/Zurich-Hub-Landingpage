@@ -205,7 +205,7 @@
     "board": false
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "Benedikt Schmid",
     "linkedin": "https://www.linkedin.com/in/benedikt-s-b111b3122/",
     "email": " ",
@@ -214,7 +214,7 @@
     "board": false
   },
   {
-    "id": 26,
+    "id": 28,
     "name": "Dalia Ghosn",
     "linkedin": "https://www.linkedin.com/in/daliaghosn/",
     "email": " ",
@@ -223,7 +223,7 @@
     "board": false
   },
   {
-    "id": 26,
+    "id": 29,
     "name": "Sofia Jordan",
     "linkedin": "https://www.linkedin.com/in/sofiajordan/",
     "email": " ",
@@ -232,7 +232,7 @@
     "board": false
   },
   {
-    "id": 26,
+    "id": 30,
     "name": "Sterre van Egmond",
     "linkedin": "https://www.linkedin.com/in/sterrevanegmond/",
     "email": " ",
@@ -241,7 +241,7 @@
     "board": false
   },
   {
-    "id": 26,
+    "id": 31,
     "name": "Hinata Saiki",
     "linkedin": "https://www.linkedin.com/in/hinata-saiki-2581311b2/",
     "email": " ",
@@ -250,14 +250,463 @@
     "board": false
   },
   {
-  "id": 27,
-  "name": "Test Member",
-  "linkedin": "https://www.linkedin.com/in/hinata-saiki-2581311b2/",
+  "id": 32,
+  "name": "Alex Stöckl",
+  "linkedin": "https://www.linkedin.com/in/alexstoeckl/",
   "email": " ",
-  "photo": "assets/images/members/Hinata Saiki.jpg",
+  "photo": "public/assets/images/members/Alex_Stöckel.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 33,
+  "name": "Andri Silberschmied-Buhofer",
+  "linkedin": "https://www.linkedin.com/in/andrisilberschmidt/",
+  "email": " ",
+  "photo": "assets/images/members/Andri sil.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 34,
+  "name": "Andri Silberschmied-Buhofer",
+  "linkedin": "https://www.linkedin.com/in/andrisilberschmidt/",
+  "email": " ",
+  "photo": "assets/images/members/Andri sil.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 35,
+  "name": "Andrina Beuggert",
+  "linkedin": "https://www.linkedin.com/in/andrinabeuggert/",
+  "email": " ",
+  "photo": "assets/images/members/Andrina Beuggert.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+   {
+  "id": 36,
+  "name": "Angela Honegger",
+  "linkedin": "https://www.linkedin.com/in/angela-honegger/",
+  "email": " ",
+  "photo": "assets/images/members/Angela Honegger.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 37,
+  "name": "Anna Stünzi",
+  "linkedin": "https://www.linkedin.com/in/anna-st%C3%BCnzi-93391b8b/",
+  "email": " ",
+  "photo": "assets/images/members/Anna Stünzi.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 38,
+  "name": "Arik	Brückner",
+  "linkedin": "https://www.linkedin.com/in/arikbrueckner/",
+  "email": " ",
+  "photo": "assets/images/members/ArikBrückner.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 39,
+  "name": "Benjamin Eisert",
+  "linkedin": "https://www.linkedin.com/in/benjamineisert/",
+  "email": " ",
+  "photo": "assets/images/members/Benjamin	Eisert.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+   {
+  "id": 40,
+  "name": "Carlo Badini",
+  "linkedin": "https://www.linkedin.com/in/carlobadini/",
+  "email": " ",
+  "photo": "assets/images/members/Carlo Badini.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 41,
+  "name": "Catherine McDonald",
+  "linkedin": "https://www.linkedin.com/in/catherine-mcdonald-42564ab9/",
+  "email": " ",
+  "photo": "assets/images/members/Catherine McDonald.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 42,
+  "name": "Charlotte Bunne",
+  "linkedin": "https://www.linkedin.com/in/bunnech/",
+  "email": " ",
+  "photo": "assets/images/members/Charlotte Bunne.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 43,
+  "name": "Daniel Vafi",
+  "linkedin": "https://www.linkedin.com/in/daniel-vafi/",
+  "email": " ",
+  "photo": "assets/images/members/Daniel Vafi.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 44,
+  "name": "David Bloch",
+  "linkedin": "https://www.linkedin.com/in/davidabloch/",
+  "email": " ",
+  "photo": "assets/images/members/David Bloch.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 45,
+  "name": "David Dao",
+  "linkedin": "https://www.linkedin.com/in/dwddao/?locale=en",
+  "email": " ",
+  "photo": "assets/images/members/David Dao.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 46,
+  "name": "Elena Zheglova",
+  "linkedin": "https://www.linkedin.com/in/elena-zheglova/",
+  "email": " ",
+  "photo": "assets/images/members/Elena Zheglova.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 47,
+  "name": "Enrica Sighinolfi",
+  "linkedin": "https://www.linkedin.com/in/enricasighinolfi/?locale=en",
+  "email": " ",
+  "photo": "public/assets/images/members/Enrica Sighinolfi.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 48,
+  "name": "Eyal	Donath",
+  "linkedin": "https://www.linkedin.com/in/eyal-donath-a85a4a64/",
+  "email": " ",
+  "photo": "assets/images/members/Eyal Donath.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 49,
+  "name": "Felicitas Pietrulla",
+  "linkedin": "https://www.linkedin.com/in/felicitaspietrulla/Felicitas Pietrulla",
+  "email": " ",
+  "photo": "public/assets/images/members/Felicitas Pietrulla.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 50,
+  "name": "Florian Egli",
+  "linkedin": "https://www.linkedin.com/in/florianegli/",
+  "email": " ",
+  "photo": "public/assets/images/members/Florian Egli.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 51,
+  "name": "Florin Hasler",
+  "linkedin": "https://www.linkedin.com/in/florin-hasler/?locale=enFlorin Hasler",
+  "email": " ",
+  "photo": "assets/images/members/Florin Hasler.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 52,
+  "name": "Georges Kern",
+  "linkedin": "https://www.linkedin.com/in/georges-k-623169156/",
+  "email": " ",
+  "photo": "assets/images/members/Georges Kern.jpeg",
+  "role": "Founder Curator",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 53,
+  "name": "Gianina Caviezel",
+  "linkedin": "https://www.linkedin.com/in/gianinacaviezel/",
+  "email": " ",
+  "photo": "assets/images/members/Gianina Caviezel.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 54,
+  "name": "Hilda Liswani",
+  "linkedin": "http://linkedin.com/in/hilda-n-liswani-7952218a/",
+  "email": " ",
+  "photo": "assets/images/members/Hilda Liswani.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 55,
+  "name": "Johnny Forrer",
+  "linkedin": "https://www.linkedin.com/in/johnnysid/",
+  "email": " ",
+  "photo": "assets/images/members/Johnny Forrer.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 56,
+  "name": "Julien Weissenberg",
+  "linkedin": "https://www.linkedin.com/in/julienweissenberg/",
+  "email": " ",
+  "photo": "assets/images/members/Julien Weissenberg.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 57,
+  "name": "Kaspar Etter",
+  "linkedin": "https://www.linkedin.com/in/kasparetter/",
+  "email": " ",
+  "photo": "assets/images/members/Kaspar Etter.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 58,
+  "name": "Laetitia Thieren",
+  "linkedin": "https://www.linkedin.com/in/laetitia-thieren/",
+  "email": " ",
+  "photo": "assets/images/members/Laetitia Thieren.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 59,
+  "name": "Laurene Descamps",
+  "linkedin": "https://www.linkedin.com/in/laur%C3%A8ne-descamps-111010a5/",
+  "email": " ",
+  "photo": "assets/images/members/Laurene Descamps.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 60,
+  "name": "Laurin Schaffner",
+  "linkedin": "https://www.linkedin.com/in/laurin-schaffner-3701b7b6/",
+  "email": " ",
+  "photo": "assets/images/members/Laurin Schaffner.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 61,
+  "name": "Maria Ploumaki Bigler",
+  "linkedin": "https://www.linkedin.com/in/mariaploumaki/",
+  "email": " ",
+  "photo": "assets/images/members/Maria Ploumaki Bigler.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 62,
+  "name": "Marie-Claire Graf",
+  "linkedin": "http://linkedin.com/in/marie-claire-graf/",
+  "email": " ",
+  "photo": "assets/images/members/Marie-Claire Graf.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 63,
+  "name": "Maximilian Stern",
+  "linkedin": "https://www.linkedin.com/in/maximilian-stern-3a0a4640/",
+  "email": " ",
+  "photo": "assets/images/members/Maximilian Stern.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 64,
+  "name": "Moritz Meenen",
+  "linkedin": "https://www.linkedin.com/in/mmeenen/",
+  "email": " ",
+  "photo": "assets/images/members/Moritz Meenen.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 65,
+  "name": "Nayeli Kunz",
+  "linkedin": "https://www.linkedin.com/in/nayelikunz/",
+  "email": " ",
+  "photo": "assets/images/members/Nayeli Kunz.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 66,
+  "name": "Nicole Keller",
+  "linkedin": "https://www.linkedin.com/in/nicole-keller-020378a7/",
+  "email": " ",
+  "photo": "assets/images/members/Nicole Keller.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 67,
+  "name": "Otto	von Troschke",
+  "linkedin": "https://www.linkedin.com/in/ottovontroschke/",
+  "email": " ",
+  "photo": "assets/images/members/Otto von Troschke.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 68,
+  "name": "Péter Fankhauser",
+  "linkedin": "https://www.linkedin.com/in/peterfankhauser/?locale=en",
+  "email": " ",
+  "photo": "assets/images/members/Péter Fankhauser.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 69,
+  "name": "Rayan Aebi",
+  "linkedin": "https://www.linkedin.com/in/rayanaebi/",
+  "email": " ",
+  "photo": "assets/images/members/Rayan Aebi.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 70,
+  "name": "Roman Gutzwiller",
+  "linkedin": "https://www.linkedin.com/in/romangutzwiller/",
+  "email": " ",
+  "photo": "assets/images/members/Roman Gutzwiller.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 71,
+  "name": "Sandro Pirovino",
+  "linkedin": "https://www.linkedin.com/in/sandro-pirovino/",
+  "email": " ",
+  "photo": "assets/images/members/Sandro Pirovino.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 72,
+  "name": "Silvano Lieger",
+  "linkedin": "https://www.linkedin.com/in/lieger/",
+  "email": " ",
+  "photo": "assets/images/members/Silvano Lieger.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 73,
+  "name": "Simon Klaus",
+  "linkedin": "https://www.linkedin.com/in/simonklausnovartis/",
+  "email": " ",
+  "photo": "assets/images/members/Simon Klaus.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 74,
+  "name": "Simon Liebi",
+  "linkedin": "https://www.linkedin.com/in/simon-liebi-4066a8149/",
+  "email": " ",
+  "photo": "public/assets/images/members/Simon Liebi.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 75,
+  "name": "Simon Dalcher",
+  "linkedin": "https://www.linkedin.com/in/simon-dalcher/",
+  "email": " ",
+  "photo": "assets/images/members/Simon Dalcher.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 76,
+  "name": "Sunnie Groeneveld",
+  "linkedin": "https://www.linkedin.com/in/sunniegroeneveld/?locale=en",
+  "email": " ",
+  "photo": "public/assets/images/members/Sunnie Groeneveld.jpeg",
+  "role": "Alumni",
+  "alumni": true,
+  "board": false
+  },
+  {
+  "id": 77,
+  "name": "Valentine von Toggenburg",
+  "linkedin": "https://www.linkedin.com/in/vvontoggenburg/",
+  "email": " ",
+  "photo": "assets/images/members/Valentinevon Toggenburg.jpeg",
   "role": "Alumni",
   "alumni": true,
   "board": false
   }
-  
 ]
