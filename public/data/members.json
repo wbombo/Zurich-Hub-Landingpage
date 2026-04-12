@@ -112,6 +112,7 @@
     "email": " ",
     "photo": "assets/images/members/Lukas.jpg",
     "role": "Hub Member",
+    "alumni":true,
     "board": false
   },
       {
@@ -187,15 +188,6 @@
     "board": false
   },
   {
-    "id": 25,
-    "name": "Til R. Fink",
-    "linkedin": "https://www.linkedin.com/in/til-fink/",
-    "email": " ",
-    "photo": "assets/images/members/Til Fink.jpg",
-    "role": "Hub Member",
-    "board": false
-  },
-  {
     "id": 26,
     "name": "Zoya Miari",
     "linkedin": "https://www.linkedin.com/in/zoya-miari-7cl927186/",
@@ -254,7 +246,7 @@
   "name": "Alex Stöckl",
   "linkedin": "https://www.linkedin.com/in/alexstoeckl/",
   "email": " ",
-  "photo": "public/assets/images/members/Alex_Stöckel.jpeg",
+  "photo": "assets/images/members/Alex_Stöckel.jpeg",
   "role": "Alumni",
   "alumni": true,
   "board": false
@@ -404,7 +396,7 @@
   "name": "Enrica Sighinolfi",
   "linkedin": "https://www.linkedin.com/in/enricasighinolfi/?locale=en",
   "email": " ",
-  "photo": "public/assets/images/members/Enrica Sighinolfi.jpeg",
+  "photo": "assets/images/members/Enrica Sighinolfi.jpeg",
   "role": "Alumni",
   "alumni": true,
   "board": false
@@ -424,7 +416,7 @@
   "name": "Felicitas Pietrulla",
   "linkedin": "https://www.linkedin.com/in/felicitaspietrulla/Felicitas Pietrulla",
   "email": " ",
-  "photo": "public/assets/images/members/Felicitas Pietrulla.jpeg",
+  "photo": "assets/images/members/Felicitas Pietrulla.jpeg",
   "role": "Alumni",
   "alumni": true,
   "board": false
@@ -434,7 +426,7 @@
   "name": "Florian Egli",
   "linkedin": "https://www.linkedin.com/in/florianegli/",
   "email": " ",
-  "photo": "public/assets/images/members/Florian Egli.jpeg",
+  "photo": "assets/images/members/Florian Egli.jpeg",
   "role": "Alumni",
   "alumni": true,
   "board": false
@@ -674,7 +666,7 @@
   "name": "Simon Liebi",
   "linkedin": "https://www.linkedin.com/in/simon-liebi-4066a8149/",
   "email": " ",
-  "photo": "public/assets/images/members/Simon Liebi.jpeg",
+  "photo": "assets/images/members/Simon Liebi.jpeg",
   "role": "Alumni",
   "alumni": true,
   "board": false
@@ -694,7 +686,7 @@
   "name": "Sunnie Groeneveld",
   "linkedin": "https://www.linkedin.com/in/sunniegroeneveld/?locale=en",
   "email": " ",
-  "photo": "public/assets/images/members/Sunnie Groeneveld.jpeg",
+  "photo": "assets/images/members/Sunnie Groeneveld.jpeg",
   "role": "Alumni",
   "alumni": true,
   "board": false
