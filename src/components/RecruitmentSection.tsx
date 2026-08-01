@@ -50,7 +50,8 @@ const RecruitmentSection: React.FC = () => {
         "You have an entrepreneurial spirit, having already initiated and delivered a major project or founded a company or organization, exceptionally contributing to the Zurich Hub and serving society at large.",
         "You are ready to deeply engage in the Global Shaper Community, reinforcing its mission and objectives and supporting fellow Shapers in their individual and professional development.",
         hubConfig?.recruitmentText.additionalInfo || "Supporting one of our projects as a volunteer or participating in one of our events before your application is considered a huge plus during the recruitment process. Please check out our social media channels or reach out to our Members Officer to learn more about our current projects and events.",
-        "We recruit in two annual cycles. Applications submitted by 31 January are considered in the first cycle, and those submitted by 31 August are considered in the second cycle. After an applicant made it through our first screening round, an in-person recruiting event will follow after 2-4 weeks of the application cut-off date. Respective candidate will be informed via Email."
+        "We recruit in two annual cycles. Applications submitted by 31 January are considered in the first cycle, and those submitted by 31 August are considered in the second cycle. After an applicant made it through our first screening round, an in-person recruiting event will follow after 2-4 weeks of the application cut-off date. Respective candidate will be informed via Email.",
+        "GSZH Recruitment Interviews dates: 22 September Tuesday 7-9pm: https://luma.com/ta0y9qf6 | 22 February Monday 7-9pm: https://luma.com/8rgi3iz3"
     ];
 
     return (
