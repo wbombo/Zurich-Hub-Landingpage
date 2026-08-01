@@ -54,12 +54,12 @@ const IntroSection: React.FC = () => {
                                 </Link>
                                  {/* New External Link */}
                                 <a
-                                    href="https://google.com"
+                                    href="https://drive.google.com/file/d/1a_j9DVZ_bewwWXPtBIS9YLn2m380cxsn/view?usp=sharing"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="px-6 py-3 bg-neutral-white/20 backdrop-blur-sm text-neutral-white border border-neutral-white/40 font-medium rounded-lg hover:bg-neutral-white/30 transition-all duration-200 cursor-pointer w-full md:w-auto text-center"
+                                    className="px-6 py-3 bg-primary text-neutral-white font-medium rounded-lg hover:bg-primary-dark transition-all duration-200 shadow-lg hover:shadow-xl hover:-translate-y-1 cursor-pointer w-full md:w-auto"
                                 >
-                                    External Page
+                                   Annual Report 2025 – 2026
                                 </a>
                             </div>
                         </div>
