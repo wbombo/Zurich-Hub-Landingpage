@@ -52,8 +52,8 @@ const IntroSection: React.FC = () => {
                                 >
                                     Join Our Hub
                                 </Link>
-                                                                <Link
-                                    to="PDF"
+                                 <Link
+                                    to="join us"
                                     smooth={true}
                                     duration={scrollDuration}
                                     offset={scrollOffset}
