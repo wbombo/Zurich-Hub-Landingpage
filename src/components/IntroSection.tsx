@@ -52,15 +52,15 @@ const IntroSection: React.FC = () => {
                                 >
                                     Join Our Hub
                                 </Link>
-                                 <Link
-                                    to="join us"
-                                    smooth={true}
-                                    duration={scrollDuration}
-                                    offset={scrollOffset}
-                                    className="px-6 py-3 bg-neutral-white/20 backdrop-blur-sm text-neutral-white border border-neutral-white/40 font-medium rounded-lg hover:bg-neutral-white/30 transition-all duration-200 cursor-pointer w-full md:w-auto"
+                                 {/* New External Link */}
+                                <a
+                                    href="https://google.com"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="px-6 py-3 bg-neutral-white/20 backdrop-blur-sm text-neutral-white border border-neutral-white/40 font-medium rounded-lg hover:bg-neutral-white/30 transition-all duration-200 cursor-pointer w-full md:w-auto text-center"
                                 >
-                                    PDF
-                                </Link>
+                                    External Page
+                                </a>
                             </div>
                         </div>
                         
