@@ -18,6 +18,7 @@
     "email": " ",
     "photo": "/assets/images/members/sabine.jpeg",
     "role": "Hub Member - Community Champion Switzerland & Austria",
+    "alumni": true,
     "board": false,
     "description": " "
   },
@@ -57,7 +58,8 @@
     "linkedin": "https://www.linkedin.com/in/abdulrasheed-isah-b2064396/",
     "email": " ",
     "photo": "/assets/images/members/AbdulrasheedIsa.JPEG",
-    "role": "Hub Member",
+    "role": "Alumni",
+    "alumni": true,
     "board": false
   },
     {
@@ -139,7 +141,8 @@
     "linkedin": "https://www.linkedin.com/in/mirujaa-santhirasegaram-2254292a3/",
     "email": " ",
     "photo": "/assets/images/members/Miru Santhi.jpg",
-    "role": "Hub Member",
+    "role": "Alumni",
+    "alumni": true,
     "board": false
   },
   {
@@ -148,8 +151,8 @@
     "linkedin": "https://www.linkedin.com/in/natashahunziker/",
     "email": "natasha.hunziker@gmail.com",
     "photo": "/assets/images/members/Natasha Hunziker.JPG",
-    "role": "Head of Communication",
-    "board": true
+    "role": "Hub Member",
+    "board": false
   },
   {
     "id": 21,
@@ -184,7 +187,7 @@
     "linkedin": "https://www.linkedin.com/in/sahel-lahoo/",
     "email": "info@sahel.ch",
     "photo": "/assets/images/members/Sahel Lahoo.png",
-    "role": "Head of Communication",
+    "role": "Communication Officer",
     "board": true
   },
   {
