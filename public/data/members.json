@@ -28,8 +28,8 @@
     "linkedin": "https://www.linkedin.com/in/riccardocasarin/",
     "email": "riccardo.casarin@globalshaperszurich.com",
     "photo": "/assets/images/members/riccardo.jpeg",
-    "role": "Impact Officer",
-    "board": true
+    "role": "Hub Member",
+    "board": false
   },
   {
     "_instructions": "Copy this file to public/data/members.json and add your hub's members",
@@ -48,7 +48,7 @@
     "linkedin": "https://www.linkedin.com/in/valeria-t-057585143/",
     "email": "valeria.torre@globalshaperszurich.com",
     "photo": "/assets/images/members/valeria.jpeg",
-    "role": "Head of Hub Members",
+    "role": "Members Officer",
     "board": true
   },
   {
@@ -75,8 +75,8 @@
     "linkedin": "https://www.linkedin.com/in/cristian-santana-ll/",
     "email": " ",
     "photo": "/assets/images/members/Chris LlaSan.jpeg",
-    "role": "Hub Member",
-    "board": false
+    "role": "Community Officer",
+    "board": true
   },
     {
     "id": 12,
@@ -84,7 +84,7 @@
     "linkedin": "https://www.linkedin.com/in/etheltanhy/",
     "email": "etheltanhy@gmail.com",
     "photo": "/assets/images/members/Ethel Hui Yan Tan.jpeg",
-    "role": "Head of Community",
+    "role": "Vice Curator",
     "board": true
   },
     {
@@ -175,8 +175,8 @@
     "linkedin": "https://www.linkedin.com/in/pietro-chioda-a0b8a51a2/",
     "email": " ",
     "photo": "/assets/images/members/Pietro Chioda.jpg",
-    "role": "Hub Member",
-    "board": false
+    "role": "Partnership Officer",
+    "board": true
   },
   {
     "id": 24,
@@ -220,8 +220,8 @@
     "linkedin": "https://www.linkedin.com/in/sofiajordan/",
     "email": " ",
     "photo": "assets/images/members/Sofia Jordan.jpg",
-    "role": "Hub Member",
-    "board": false
+    "role": "Impact Officer",
+    "board": true
   },
   {
     "id": 30,
