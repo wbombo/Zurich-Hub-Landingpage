@@ -38,7 +38,7 @@
     "linkedin": "https://www.linkedin.com/in/antonia-straden/",
     "email": "antonia.straden@globalshaperszurich.com",
     "photo": "/assets/images/members/antonia.jpeg",
-    "role": "Curator",
+    "role": "Outgoing Curator",
     "board": true
   },
   {
@@ -182,10 +182,10 @@
     "id": 24,
     "name": "Sahel Lahoo",
     "linkedin": "https://www.linkedin.com/in/sahel-lahoo/",
-    "email": " ",
+    "email": "info@sahel.ch",
     "photo": "/assets/images/members/Sahel Lahoo.png",
-    "role": "Hub Member",
-    "board": false
+    "role": "Head of Communication",
+    "board": true
   },
   {
     "id": 26,
