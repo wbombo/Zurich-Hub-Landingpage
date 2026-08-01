@@ -1,6 +1,5 @@
 [
   {
-    "_instructions": "Copy this file to public/data/events.json and add your hub's events",
     "id": 1,
     "title": "Recruitment Interviews",
     "date": "2026-09-22",
